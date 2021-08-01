@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: RS03AXPD-DP03A-03-FLNTUA302-recovered_wfp-dpc_flnturtd_instrument_recovered
-last_request: '2021-07-19T18:20:20.066329Z'
+last_request: '2021-08-01T00:43:02.055487Z'
 response: https://raw.githubusercontent.com/ooi-data/RS03AXPD-DP03A-03-FLNTUA302-recovered_wfp-dpc_flnturtd_instrument_recovered/main/history/response.json
 status: failed
