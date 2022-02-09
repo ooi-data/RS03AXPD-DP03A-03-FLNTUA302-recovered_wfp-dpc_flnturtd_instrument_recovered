@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS03AXPD-DP03A-03-FLNTUA302-recovered_wfp-dpc_flnturtd_instrument_recovered
 data_stream: RS03AXPD-DP03A-03-FLNTUA302-recovered_wfp-dpc_flnturtd_instrument_recovered
 end_date: '2022-01-01T12:33:04.743Z'
-last_updated: '2022-02-09T07:16:57.796235Z'
+last_updated: '2022-02-09T07:20:35.841274'
 start_date: '2014-08-20T12:18:53.514Z'
-status: pending
+status: success
